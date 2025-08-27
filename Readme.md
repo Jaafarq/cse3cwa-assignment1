@@ -22,3 +22,4 @@ npm run dev
 
 # 3) Open in your browser
 # http://localhost:3000
+- Update: added screenshot instructions
